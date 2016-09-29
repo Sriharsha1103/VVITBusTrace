@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VVIT Bus Trace</string>
+    <string name="edittext_bus_hint">Enter Bus Route</string>
+    <string name="trace_bus">Trace Bus</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
